@@ -34,8 +34,6 @@ To get a local copy up and running follow these simple steps.
 1. Run the app
    ```sh
      flutter run
-
-
 ### Contact
 
 Jayesh Jain - jayeshjan0975@gmail.com
